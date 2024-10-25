@@ -6,7 +6,6 @@ import random
 import string
 import datetime
 import itertools
-import requests
 from telegram import Update, ReplyKeyboardMarkup, KeyboardButton
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 from sharpx import BOT_TOKEN, ADMIN_IDS
